@@ -34,4 +34,14 @@ class GamesSerializer(serializers.ModelSerializer): # serializers.ModelSerialize
         'stat_g1','stat_g2','stat_g3','stat_g4','stat_g5','stat_g6','stat_g7','stat_g8','stat_g9','stat_g10',
         'stat_h1','stat_h2','stat_h3','stat_h4','stat_h5','stat_h6','stat_h7','stat_h8','stat_h9','stat_h10',
         'stat_i1','stat_i2','stat_i3','stat_i4','stat_i5','stat_i6','stat_i7','stat_i8','stat_i9','stat_i10',
-        'stat_j1','stat_j2','stat_j3','stat_j4','stat_j5','stat_j6','stat_j7','stat_j8','stat_j9','stat_j10',) 
+        'stat_j1','stat_j2','stat_j3','stat_j4','stat_j5','stat_j6','stat_j7','stat_j8','stat_j9','stat_j10',
+        'stat_a1_2','stat_a2_2','stat_a3_2','stat_a4_2','stat_a5_2','stat_a6_2','stat_a7_2','stat_a8_2','stat_a9_2','stat_a10_2',
+        'stat_b1_2','stat_b2_2','stat_b3_2','stat_b4_2','stat_b5_2','stat_b6_2','stat_b7_2','stat_b8_2','stat_b9_2','stat_b10_2',
+        'stat_c1_2','stat_c2_2','stat_c3_2','stat_c4_2','stat_c5_2','stat_c6_2','stat_c7_2','stat_c8_2','stat_c9_2','stat_c10_2',
+        'stat_d1_2','stat_d2_2','stat_d3_2','stat_d4_2','stat_d5_2','stat_d6_2','stat_d7_2','stat_d8_2','stat_d9_2','stat_d10_2',
+        'stat_e1_2','stat_e2_2','stat_e3_2','stat_e4_2','stat_e5_2','stat_e6_2','stat_e7_2','stat_e8_2','stat_e9_2','stat_e10_2',
+        'stat_f1_2','stat_f2_2','stat_f3_2','stat_f4_2','stat_f5_2','stat_f6_2','stat_f7_2','stat_f8_2','stat_f9_2','stat_f10_2',
+        'stat_g1_2','stat_g2_2','stat_g3_2','stat_g4_2','stat_g5_2','stat_g6_2','stat_g7_2','stat_g8_2','stat_g9_2','stat_g10_2',
+        'stat_h1_2','stat_h2_2','stat_h3_2','stat_h4_2','stat_h5_2','stat_h6_2','stat_h7_2','stat_h8_2','stat_h9_2','stat_h10_2',
+        'stat_i1_2','stat_i2_2','stat_i3_2','stat_i4_2','stat_i5_2','stat_i6_2','stat_i7_2','stat_i8_2','stat_i9_2','stat_i10_2',
+        'stat_j1_2','stat_j2_2','stat_j3_2','stat_j4_2','stat_j5_2','stat_j6_2','stat_j7_2','stat_j8_2','stat_j9_2','stat_j10_2',) 
